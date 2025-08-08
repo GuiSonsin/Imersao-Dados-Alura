@@ -1,7 +1,5 @@
 # 📊 Dashboard de Salários na Área de Dados
 
-![Dashboard Preview](https://via.placeholder.com/1200x500.png?text=Prévia+do+Dashboard)
-
 Um aplicativo interativo desenvolvido em **Streamlit** para análise de salários na área de dados, criado durante a *Imersão de Dados* da [Alura](https://www.alura.com.br/).  
 O projeto permite explorar tendências salariais por ano, senioridade, tipo de contrato, tamanho da empresa e localização, utilizando gráficos dinâmicos e KPIs.
 
